@@ -6,7 +6,7 @@ A minimal, yet *elegant* starter tab. Made with pure HTML, CSS and minimal JS. B
 
 - Panel with support for up to 12 bookmarks
 - Glass-like Design
-- 4 gorgeous theme.
+- Gorgeous light and dark mode
 
 ## Images:
 <p align="center"><b>Coming Very Soon</b></p>
